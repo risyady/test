@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/model/Transaksi.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/model/MemberTable.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/dao/PeminjamanDao.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/model/Anggota.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/view/FormPeminjaman.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/view/FormAnggota.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/model/Buku.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/dao/BukuDaoImpl.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/dao/AnggotaDaoImpl.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/controller/BukuController.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/view/FormBuku.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/controller/MemberController.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/dao/MemberDaoImpl.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/model/Peminjaman.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/controller/PeminjamanController.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/controller/AnggotaController.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/dao/AnggotaDao.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/dao/BukuDao.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/view/FormMember.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/model/MemberModel.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/dao/MemberDao.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/koneksi/MemberKoneksi.java</file>
+            <file>file:/D:/NetBeansProjects/Baim2211083005/src/dao/PeminjamanDaoImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
